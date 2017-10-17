@@ -1,9 +1,11 @@
+<* Overall formatting *>
 * {
   font-family: Veranda,sans-serif;
   text-align: center;
   color: White;
   background: Black;
 }
+<* H1 formatting *>
 h1 {
   font-family: Veranda, sans-serif;
   font-weight: normal;
@@ -11,6 +13,7 @@ h1 {
   color: White;
   text-align: center;
 }
+<* H2 formatting *>
 h2 {
   font-family: Veranda, sans-serif;
   font-weight: 300;
@@ -18,15 +21,18 @@ h2 {
   color: White;
   text-align: center;
 }
+<* H3 formatting *>
 h3 {
   font-family: Veranda, sans-serif;
   font-size: 21px;
   color: gray;
   text-align: center;
 }
+<* #copyright id formatting *>
 #copyright {
   text-align: right;
 }
+<* Future links formatting *>
 a {
   font-family: Veranda, sans-serif;
   font-size: 16px;
